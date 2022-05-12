@@ -1,0 +1,25 @@
+.final{
+    background: pink;
+    text-align: center;
+    justify-content:center;
+    padding:21px ;
+    font-size: 23px;
+    font-family:'Archivo Narrow', sans-serif; ;  
+  
+};
+ 
+.h1{    
+  
+   font-family: 'Tapestry', cursive; ;
+  
+}
+  
+.botao{ 
+  
+    padding: 10px 30px;
+    border-radius: 7px;
+    border: none;
+    background: palevioletred;
+    color: black;
+
+}
